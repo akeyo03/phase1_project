@@ -19,9 +19,11 @@ The dataset consists of categorical and continuous columns. The categorical colu
 ![alt text](<falatility rate-1.png>)
 ![alt text](weather.png)
 ## Tableau Dashboard link
-https://public.tableau.com/app/profile/natalie.akeyo/viz/project_1_17182819892450/Dashboard2?publish=yes
+https://public.tableau.com/app/profile/natalie.akeyo/viz/project_sheet2/Dashboard2?publish=yes
 ## Conclusion
 From the data analysis done, I would recommend the buyers to adhere to the safety of passengers by making them first priority.
 This can be done by choosing plane makes that over the years have had less fatal and serious inflicted injuries on the passengers.
 Another way is by understanding why many accidents occur during takeoff and approach and why do many accidents occur during personal purpose flights. This can be done by seeking further information from aviation specialists.
+Lastly I would recommend the buyers to understand different weather patterns so as to understand which weather conditions are unsuitable for flying as seen that VMC is unsuitable for flying.
+This will enable them to choose and buy a low-risk aircraft that can sustain all these recommendations.
 
